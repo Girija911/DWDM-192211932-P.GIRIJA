@@ -1,6 +1,3 @@
-ht\tps://github.com/Girija911/Compiler-design-192211932
-q()
-z_score_normalized
 # Define the data
 data <- c(200, 300, 400, 600, 1000)
 # Calculate the mean and standard deviation
